@@ -4,4 +4,10 @@ zTree v3.5.28
 
 数据请求反应 采用nodejs
 
+启动后台服务
+node restfulForZtree.js &
+
+访问异步树:
+async_fun.html
+
 
